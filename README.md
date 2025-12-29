@@ -6,7 +6,7 @@ I'm a curious developer currently obsessed with discovering new technologies and
 ---
 
 ### ⚡ Quick Facts
-- 🌱 **Learning:** Deep diving into AI or Web3
+- 🌱 **Learning:** Deep diving into AI or Cyber Security
 - 💬 **Ask me about:** Why I love building things and my latest discoveries
 - ⚡ **Fun fact:** I believe the best way to learn is by doing (and failing fast)
   
